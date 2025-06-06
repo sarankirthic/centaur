@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Account/Account.iml" filepath="$PROJECT_DIR$/Account/Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Account.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Account.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Account.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Account.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ball/Ball.iml" filepath="$PROJECT_DIR$/Ball/Ball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Circle/Circle.iml" filepath="$PROJECT_DIR$/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InvoiceItem/InvoiceItem.iml" filepath="$PROJECT_DIR$/InvoiceItem/InvoiceItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Time/Time.iml" filepath="$PROJECT_DIR$/Time/Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+    </modules>
+  </component>
+</project>
