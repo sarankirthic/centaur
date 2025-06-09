@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Account/Account.iml" filepath="$PROJECT_DIR$/Account/Account.iml" />
       <module fileurl="file://$PROJECT_DIR$/AuthorBook/AuthorBook.iml" filepath="$PROJECT_DIR$/AuthorBook/AuthorBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ball/Ball.iml" filepath="$PROJECT_DIR$/Ball/Ball.iml" />
@@ -12,9 +11,13 @@
       <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
       <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
       <module fileurl="file://$PROJECT_DIR$/InvoiceItem/InvoiceItem.iml" filepath="$PROJECT_DIR$/InvoiceItem/InvoiceItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyComplex/MyComplex.iml" filepath="$PROJECT_DIR$/MyComplex/MyComplex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyPolynomial/MyPolynomial.iml" filepath="$PROJECT_DIR$/MyPolynomial/MyPolynomial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTime/MyTime.iml" filepath="$PROJECT_DIR$/MyTime/MyTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Point/Point.iml" filepath="$PROJECT_DIR$/Point/Point.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Time/Time.iml" filepath="$PROJECT_DIR$/Time/Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
     </modules>
   </component>
 </project>
